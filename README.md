@@ -9,15 +9,15 @@ Tools Used - MYSQL
 SQL Concepts Used
 
 This project demonstrates several important SQL concepts used in data analysis:
-Data filtering (WHERE)
-Aggregation (SUM, AVG, COUNT)
-Grouping (GROUP BY, HAVING)
-Table joins (INNER JOIN)
-Subqueries
-Window functions (RANK, DENSE_RANK)
-Pattern matching (LIKE)
-Conditional filtering (IN, NOT IN)
-Common Table Expression (CTE)
+Data filtering (WHERE) |
+Aggregation (SUM, AVG, COUNT) |
+Grouping (GROUP BY, HAVING) |
+Table joins (INNER JOIN) |
+Subqueries |
+Window functions (RANK, DENSE_RANK) |
+Pattern matching (LIKE) |
+Conditional filtering (IN, NOT IN) |
+Common Table Expression (CTE) |
 
 Project Objective
 
