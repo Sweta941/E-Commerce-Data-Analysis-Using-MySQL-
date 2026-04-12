@@ -162,9 +162,9 @@ Built as part of a hands-on SQL data analysis project to practice real-world bus
 ## 👤 Author
 
 **[Sweta Mehta]**  
-Data Science Portfolio Project  
+Data Analyst | Data Science Portfolio Project  
 
----
+----
 ----
 
 
