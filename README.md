@@ -155,17 +155,17 @@ The project answers **25 analytical questions** across multiple business dimensi
 
 ## 🙋 About the Author
 
-Built as part of a hands-on SQL data analysis project to practice real-world business intelligence using structured query language.
+Built as part of a hands-on SQL data analysis project to practice real-world business intelligence using structured query language (SQL).
 
 ---
 
-## ⭐ If you found this useful...
+## 👤 Author
 
-Give this repo a ⭐ star and feel free to fork it to build your own analysis on top!
+**[Sweta Mehta]**  
+Data Science Portfolio Project  
 
 ---
-
-*Made with 💙 and a lot of SQL*
+----
 
 
 
