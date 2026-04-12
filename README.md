@@ -101,8 +101,9 @@ The project answers **25 analytical questions** across multiple business dimensi
 
 ```
 📦 e-commerce-sql-analysis/
- ┣ 📄 E-Commerce_script.sql    ← All queries (DDL + Analysis)
- ┗ 📄 README.md                ← Project documentation
+ ┣ 📄 E-Commerce_script.sql      ← All queries (DDL + Analysis)
+ ┣ 📄 E-Commerce_Analysis_(PPT)  ← Project PPT
+ ┗ 📄 README.md                  ← Project documentation
 ```
 
 ---
