@@ -164,9 +164,6 @@ Built as part of a hands-on SQL data analysis project to practice real-world bus
 Data Analyst | Data Science Portfolio Project  
 
 ----
-----
-
-
 
 
 ![image alt](https://github.com/Sweta941/E-Commerce-Data-Analysis-Using-MySQL-/blob/31bf2074ee3ceed8b275cabe231753768ce41953/Screenshot%20(71).png)
